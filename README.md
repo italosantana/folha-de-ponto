@@ -17,3 +17,4 @@
 - [ ] Elaborações de MENU (Menu1: Bater o ponto | Menu2: Relatório de pontos)
 - [ ] Elaboração do banco pelo SQL
 
+![alt text](mind-project.png)
