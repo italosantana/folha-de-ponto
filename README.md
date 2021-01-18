@@ -14,7 +14,6 @@
 **BETA 1.0**
 - [x] Criar a página principal
 - [x] Automatizar a data & hora
-- [ ] Sistema de MENU
-- [ ] Sistema de MENU
-- [ ] Sistema de MENU
+- [ ] Elaborações de MENU (Menu1: Bater o ponto | Menu2: Relatório de pontos)
+- [ ] Elaboração do banco pelo SQL
 
