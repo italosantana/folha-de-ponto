@@ -8,13 +8,13 @@
 - [x] PHP
 - [x] JS
 - [x] SQL
-- [x] Bootstrap 3
+- [] Bootstrap 3
 
 
 **BETA 1.0**
 - [x] Criar a página principal
 - [x] Automatizar a data & hora
-- [ ] Elaborações de MENU (Menu1: Bater o ponto | Menu2: Relatório de pontos)
+- [x] Elaborações de MENU (Menu1: Bater o ponto WEB | Menu2: Relatório de pontos WEB | Menu3: Verificar o saldo de BH)
 - [ ] Elaboração do banco pelo SQL
 
 ![alt text](mind-project.png)
