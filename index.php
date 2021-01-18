@@ -4,6 +4,10 @@
 <head>
 	<title>Folha de ponto WEB</title>
 	<meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<style>
 		body {
 			width: 100% 100%;
@@ -66,6 +70,15 @@ setTimeout('time()',500);
 	</div>	
 		</div>	
 	</div>
+
+<hr>
+<div id="menu-main">
+	<div class="btn-group btn-group-justified">
+    <a href="#" class="btn btn-primary">Bater o ponto WEB</a>
+    <a href="#" class="btn btn-primary">Relatório de pontos WEB</a>
+    <a href="#" class="btn btn-primary">Verificar o saldo de BH</a>
+  </div>
+</div>
 
 </body>
 </html>
